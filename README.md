@@ -18,8 +18,8 @@ The system is able to handle multiple user requests simultaneously and provide r
 •	Dynamic Memory Allocation<br/>
 •	GOTO Statements<br/><br/>
 
-##Outputs
+## Outputs
 
 
 ## Conclusion
-The Movie Ticket Booking System in C++ is an implementation of a software system that uses object-oriented programming (OOP) concepts to provide a solution for booking, viewing, and cancelling movie tickets. This project is a practical application of OOP principles, such as encapsulation, inheritance, and polymorphism, which have been used to design and implement the system. The system provides a user-friendly interface that allows users to browse available movies, select show timings, and book seats. Users can also view their booking history and cancel their reservations if necessary. The administrator has access to additional features like managing movie details, theatre information, and user data.![image](https://user-images.githubusercontent.com/115946158/234709318-8c98577a-c801-475f-9c23-baa43c82e034.png)
+The Movie Ticket Booking System in C++ is an implementation of a software system that uses object-oriented programming (OOP) concepts to provide a solution for booking, viewing, and cancelling movie tickets. This project is a practical application of OOP principles, such as encapsulation, inheritance, and polymorphism, which have been used to design and implement the system. The system provides a user-friendly interface that allows users to browse available movies, select show timings, and book seats. Users can also view their booking history and cancel their reservations if necessary. The administrator has access to additional features like managing movie details, theatre information, and user data.
