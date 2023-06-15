@@ -30,7 +30,7 @@ The system is able to handle multiple user requests simultaneously and provide r
 
 
 ## 📌 Contributing
-Contributions to the QR Code Generator with Tkinter project are welcome! If you encounter any issues, have suggestions for improvements, or want to contribute new features, please open an issue or submit a pull request on the repository.
+Contributions to the Movie Ticket Booking System project are welcome! If you encounter any issues, have suggestions for improvements, or want to contribute new features, please open an issue or submit a pull request on the repository.
 
 When contributing, please follow the coding conventions, maintain code quality, and include relevant documentation and test cases for new features or bug fixes.
 
